@@ -1,0 +1,1 @@
+http://www.kodementor.com/social-login-in-laravel-using-socialite/
